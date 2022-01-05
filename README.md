@@ -1,3 +1,4 @@
 # CSPC322_Project
 
-Change your username and password in db_credentials.php to connect to your local databases.
+Please see the file named CPSC 332 Project Repost.docx for the introduction and result of the project.
+
